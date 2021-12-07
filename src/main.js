@@ -1,6 +1,6 @@
 module.exports = {
     helloWorld: function(){
-        return 'Hello world';
+        return 'Hello World';
     },
     substracion: function(number1, number2){
         return number1-number2; 
