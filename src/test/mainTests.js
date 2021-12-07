@@ -14,7 +14,7 @@ describe('Main Suite', function () {
    describe('Hello world Method - test case', function () {
       it('Hello world text is as expectd', function () {
          const result = main.helloWorld();
-         assert.equal(result, 'Hello world');
+         assert.equal(result, 'Hello World');
       })
       it('Validate data type', function () {
          const result = main.helloWorld();
